@@ -9,4 +9,4 @@ Here are three interesting ways we could remix this image comparison tool:
    - Highlight areas of major differences
    - Color histogram comparison
    - Optional grid overlay for precise alignment
-   - Zoom functionality for detailed compari
+   - Zoom functionality for detailed comparison
